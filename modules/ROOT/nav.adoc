@@ -1,1 +1,1 @@
-* xref:index.adoc[pages/index.adoc]
+* xref:pages/index.adoc[index]
