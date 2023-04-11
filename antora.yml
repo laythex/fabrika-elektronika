@@ -1,0 +1,6 @@
+name: transistor-multivibrator
+title: Transistor Multivibrator
+version: ~
+start_page: index.adoc
+nav:
+- modules/ROOT/nav.adoc
